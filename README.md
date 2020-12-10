@@ -5,7 +5,7 @@ A Labcoin Walllet CLI
 
 Clone the Repository
 ```bash
-$ git clone git@github.com:oberlab/wallet-cli.git
+$ git clone git@github.com:oberlab/labcoin-wallet-cli.git
 ```
 
 Install dependencies
